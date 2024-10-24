@@ -8,8 +8,6 @@ Projek ini digunakan untuk bahan pembelajaran penggunaan framework Express dan S
 - CRUD Operations
 - Error Handling
 
-```
-
 ## Instalasi
 
 ### 1. Install Dependencies
